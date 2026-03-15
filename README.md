@@ -8,7 +8,7 @@ Filière : **GIIA**
 
 Ce projet contient l’implémentation de plusieurs exercices permettant de pratiquer les concepts fondamentaux de la **programmation orientée objet en Java**.
 
----
+
 
 ## Objectifs du TP
 
@@ -21,7 +21,7 @@ Ce TP a pour objectif de mettre en pratique les notions suivantes :
 - Manipulation des **tableaux d’objets**
 - Organisation et structuration du code en Java
 
----
+
 
 ## Contenu du TP
 
@@ -41,7 +41,7 @@ Fonctionnalités :
 - Méthode `afficherPersonne()` pour afficher les informations
 - Classe `Main` pour tester l’utilisation de la classe
 
----
+
 
 ### Exercice 2 – Classe Point
 
@@ -59,7 +59,7 @@ Méthodes implémentées :
 
 Un programme de test permet de créer un point, d’afficher ses caractéristiques, de le déplacer puis d’afficher les nouvelles coordonnées.
 
----
+
 
 ### Exercice 3 – Classe Point avec constructeur
 
@@ -71,7 +71,7 @@ Nouvelle implémentation de la classe `Point` avec :
 
 Un programme de test permet de manipuler les objets créés.
 
----
+
 
 ### Exercice 4 – Gestion de livres
 
@@ -107,7 +107,7 @@ Fonctionnalités :
 - Supprimer un livre
 - Connaître le nombre de livres présents et la capacité de l’étagère
 
----
+
 
 ## Technologies utilisées
 
@@ -115,7 +115,7 @@ Fonctionnalités :
 - IntelliJ IDEA
 - Programmation Orientée Objet (POO)
 
----
+
 
 ## Auteur
 
